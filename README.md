@@ -90,7 +90,7 @@ TaskFlow Pro is my primary project for learning and applying full-stack software
 
 **Core technologies:**
 
-`React` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `REST API` `JWT` `Git`
+`HTML5` `CSS3` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose` `REST API` `JWT` `Git` `GitHub`
 
  **Project:** Not finish. Currently building.
 
